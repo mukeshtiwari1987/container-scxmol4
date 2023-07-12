@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "mukeshtiwari1987",
+  "repo": "container-scxmol4",
+  "name": "mukeshtiwari1987",
+  "email": "mukeshtiwari1987@gmail.com",
+}
